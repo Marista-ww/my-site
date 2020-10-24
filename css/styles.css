@@ -1,0 +1,141 @@
+body {
+   color: #40514E;
+   font-family: 'Open Sans', sans-serif;
+   margin: 0;
+   text-align: center;
+}
+
+h1 {
+   color: #66BFBF;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.625rem;
+   margin: 50px auto 0 auto;
+}
+
+h2 {
+   color: #66BFBF;
+   font-family: 'Montserrat Alternates', sans-serif;
+   font-size: 2.5rem;
+   font-weight: normal;
+   padding-bottom: 10px;
+}
+
+h3 {
+   color: #11999E;
+   font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.top-container {
+   background-color: #EAF6F6;
+   padding-top: 100px;
+   position: relative;
+}
+
+.top-cloud {
+   position: absolute;
+   right: 300px;
+   top: 40px;
+}
+
+.bottom-cloud {
+   bottom: 300px;
+   left: 250px;
+   position: absolute;
+}
+
+.pro {
+   text-decoration: underline;
+}
+
+.middle-container {
+   margin: 100px auto;
+}
+
+.intro {
+   margin: auto;
+   width: 30%;
+}
+
+p {
+   line-height: 2;
+}
+
+hr {
+   border: dotted #EAF6F6 6px;
+   border-bottom: none;
+   margin: 100px auto;
+   width: 4%;
+}
+
+.skill-row {
+   margin: 100px auto;
+   text-align: left;
+   width: 50%;
+}
+
+table {
+   border-spacing: 1em .5em;
+   margin: 0 auto;
+}
+
+td {
+   height: 2.5rem;
+   text-align: left;
+}
+
+.contact-row {
+   margin: 100px auto;
+   text-align: right;
+   width: 40%;
+}
+
+.computer {
+   float: left;
+   margin-right: 30px;
+   width: 25%;
+}
+
+.email {
+   float: right;
+   margin-left: 30px;
+   width: 25%;
+}
+
+.btn {
+   background: #11cdd4;
+   background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+   border-radius: 8px;
+   color: #ffffff;
+   font-family: 'Montserrat Alternates', sans-serif;
+   font-size: 20px;
+   padding: 10px 20px;
+   text-decoration: none;
+}
+
+.bottom-container {
+   background-color: #66BFBF;
+   padding: 50px 0 20px;
+}
+
+a {
+   color: #11999E;
+   font-family: 'Montserrat Alternates', sans-serif;
+   margin: 10px 20px;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #EAF6F6;
+   background-color: #66BFBF;
+}
+
+.udemy {
+   margin: 0;
+}
+
+.copyright {
+   color: #EAF6F6;
+   font-size: 0.75rem;
+   line-height: 2;
+   padding: 20px 0;
+}
